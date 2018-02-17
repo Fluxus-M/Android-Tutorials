@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.practice.sample.imageviewscaletype.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="matrix"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="center"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="fitEnd"
+                android:src="@drawable/worlds" />
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#000000"
+                android:layout_margin="10dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/worlds" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>
