@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location</string>
+
+    <string name="google_api_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY</string>
+</resources>
