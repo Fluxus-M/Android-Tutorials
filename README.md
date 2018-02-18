@@ -19,6 +19,8 @@ ISBN: 9791188577057<br>
 ### 프로젝트 소스 코드 참고 사항
 - 모든 프로젝트는 Windows 10 운영체제에서 실행되는  안드로이드 스튜디오 3.0.1에서 작성되었습니다. 테스트 기기로는  삼성 갤럭시 S6, LG V10, 구글 픽셀 XL을 사용하였습니다.
 
+- [Github의 소스코드 이용법](https://github.com/Fluxus-M/Android-Tutorials/wiki/Github%EC%9D%98-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%9A%A9%EB%B2%95)
+
 ***
 ### 각 장에 관한 간단한 설명
 **제1장 안드로이드란 무엇인가**<br>
