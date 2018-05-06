@@ -1,7 +1,7 @@
 # Android-Tutorials
 실무에 바로 적용 할 수 있는 안드로이드 8.0 앱 프로그래밍(Oreo 버전) 의 예제 소스코드 및 수정사항을 제공합니다.
 
-<img src="https://s26.postimg.org/fmiyzofex/title_book.png"><br>
+[![title_book.png](https://s26.postimg.cc/fmiyzofex/title_book.png)](https://postimg.cc/image/6ri4p5qmd/)
 
 안드로이드 8.0 앱 프로그래밍<br>
 저자 : 임규민, 박헌우<br>
