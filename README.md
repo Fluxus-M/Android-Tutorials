@@ -21,7 +21,13 @@ ISBN: 9791188577057<br>
 
 - [Github의 소스코드 이용법](https://github.com/Fluxus-M/Android-Tutorials/wiki/Github%EC%9D%98-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%9D%B4%EC%9A%A9%EB%B2%95)
 
+- [정오표 (2018.5.24 최종수정)](https://github.com/Fluxus-M/Android-Tutorials/wiki/%EC%A0%95%EC%98%A4%ED%91%9C---(2018.5.24-%EC%B5%9C%EC%A2%85%EC%88%98%EC%A0%95))
+
+
 - [6장 카메라를 이용한 앱 만들기 - 안드로이드 8.0 및 안드로이드 8.1.0 의 이슈 대응](https://github.com/Fluxus-M/Android-Tutorials/wiki/6%EC%9E%A5-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-(%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-8.0-%EB%B0%8F--%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C--8.1.0-%EC%9D%98-%EC%9D%B4%EC%8A%88-%EB%8C%80%EC%9D%91))
+
+- [Windows 8에서의 Oracle JDK 설정](https://github.com/Fluxus-M/Android-Tutorials/wiki/Windows-8%EC%97%90%EC%84%9C%EC%9D%98-Oracle-JDK-%EC%84%A4%EC%A0%95)
+
 
 ***
 ### 각 장에 관한 간단한 설명
