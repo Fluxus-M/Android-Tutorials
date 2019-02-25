@@ -16,6 +16,16 @@ ISBN: 9791188577057<br>
 [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=133981853) <br>
 
 ***
+
+### (개정 2판) 실무에 바로 적용할 수 있는 안드로이드 9.0 앱 프로그램(Pie 버전)
+- 안드로이드 9.0 (Pie) 의 최신 내용을 반영한 개정2판이 출간됩니다.
+
+- 기존 구입자를 위해 변경된 내용을 pdf 로 제공합니다.
+  [변경내용 PDF](http://da-bon.com/bbs/board.php?bo_table=reference&wr_id=47&page=1)
+  
+- [9.0 반영 최신 소스코드](https://github.com/Fluxus-M/Android-Tutorials-2nd)  
+
+***
 ### 프로젝트 소스 코드 참고 사항
 - 모든 프로젝트는 Windows 10 운영체제에서 실행되는  안드로이드 스튜디오 3.0.1에서 작성되었습니다. 테스트 기기로는  삼성 갤럭시 S6, LG V10, 구글 픽셀 XL을 사용하였습니다.
 
